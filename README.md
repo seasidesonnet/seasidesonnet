@@ -1,4 +1,7 @@
 ## Hi there 👋
+pronouns: they/them
+
+my name is robin, and i'm currently studying a bachelor of games and interactive environments with qut!
 
 <!--
 **seasidesonnet/seasidesonnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
